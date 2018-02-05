@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png" group-title="INFANTIL",Nickelodeon
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png" group-title="INFANTIL",Disney XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="FILMES E SERIES",Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/rd1F3dK.png" group-title="FILMES E SERIES",Universal
+http://tv.ec.cx:1935/redecanais-stream-universal/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NOTÍCIAS",Record News
+http://sm.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ac5p192.png" group-title="NOTÍCIAS",Record News HD
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MbQrqgu.png" group-title="MÚSICAS E VARIEDADES",Ideal TV
+http://stmv3.srvstm.com:1935/tvideal/tvideal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/cbqlIU5.png" group-title="MÚSICAS E VARIEDADES",Polishop
+http://mm4td7.cloud.influxis.com:1935/mm4td7_live/polishoptv/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5975
+http://loa.futeboltvaovivo.com:8081/live/7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5976
+http://loa.futeboltvaovivo.com:8081/live/8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5977
+http://loa.futeboltvaovivo.com:8081/live/9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5978
+http://loa.futeboltvaovivo.com:8081/live/10/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5979
+http://loa.futeboltvaovivo.com:8081/live/11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5980
+http://loa.futeboltvaovivo.com:8081/live/12/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5981
+http://loa.futeboltvaovivo.com:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5982
+http://loa.futeboltvaovivo.com:8081/live/14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5983
+http://loa.futeboltvaovivo.com:8081/live/15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5984
+http://loa.futeboltvaovivo.com:8081/live/16/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5985
+http://loa.futeboltvaovivo.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5986
+http://loa.futeboltvaovivo.com:8081/live/18/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5987
+http://loa.futeboltvaovivo.com:8081/live/19/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWBIiym.jpg" group-title="FUTEBOL",TV 5988
+http://loa.futeboltvaovivo.com:8081/live/20/playlist.m3u8
